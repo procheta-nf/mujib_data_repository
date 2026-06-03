@@ -31,7 +31,10 @@ mujib_data_repository/
 │   ├── scenarios/              # Scenario JSON (71 SWAT + CMIP6 proxy) and interventions
 │   ├── suitability/            # Marab and Vallerani suitability PNGs, raw TIFs, clipped TIFs
 │   └── vectors/                # Dams, flood stations, rivers, LoD1 building footprints
-├── swat-prepared/              # Cleaned SWAT outputs as Parquet (sub-basin, HRU, reach)
+├── scripts/                    # 4 standalone figure-generation Python scripts
+├── swat-prepared/              # Cleaned SWAT outputs as Parquet + raw output.sub
+│   ├── raw/                    # Original output.sub from ArcSWAT
+│   └── *.parquet               # Parsed sub-basin, HRU, and reach outputs
 ├── validation/                 # V&V outputs
 │   ├── figures/                # Baseline reproduction scatter, Monte Carlo, soil moisture
 │   ├── tables/                 # CSV tables for all 8 V&V checks
@@ -41,7 +44,7 @@ mujib_data_repository/
 │   ├── suitability_benchmarking/ # Suitability threshold benchmarking outputs
 │   ├── SWAT_charts/            # Exploratory SWAT-related charts
 │   └── validation_summary_report.md
-├── docs/                       # Data dictionary (see below)
+├── docs/                       # Data dictionary and handover guide
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -100,13 +103,25 @@ pip install -r requirements.txt
 
 Notebooks 02, 03, and 04 require Google Earth Engine authentication (`earthengine-api`, `geemap`). Other notebooks run locally with the data files already present in this repository.
 
-## Dashboard
+## Related repository: CesiumJS dashboard
 
-The CesiumJS decision-support dashboard that consumes the `runtime-data/` files is hosted at:
+This data repository is one half of the Mujib Basin Digital Twin framework. The other half is the CesiumJS decision-support dashboard, which reads the `runtime-data/` files at load time:
 
-https://nawwarprocheta.github.io/mujib-digital-twin/
+- Live dashboard: https://nawwarprocheta.github.io/mujib-digital-twin/
+- Dashboard source code: https://github.com/NawwarProcheta/mujib-digital-twin
 
-Source code: https://github.com/NawwarProcheta/mujib-digital-twin
+For instructions on running the dashboard locally and connecting it to this data repository, see [docs/handover_guide.md](docs/handover_guide.md).
+
+## Figure-generation scripts
+
+The `scripts/` folder contains 4 standalone Python scripts that generate thesis figures not produced by the 8 pipeline notebooks:
+
+| Script | Generates |
+|--------|-----------|
+| `plot_baseline_reproduction_scatter.py` | Fig 4.12: emulator vs. SWAT scatter |
+| `plot_NDVI_baseline_vs_recent.py` | Fig 4.1: two-panel NDVI map |
+| `plot_SM_dry_month_count.py` | Fig 4.6d: annual dry-month count |
+| `clip_NDVI_recent_to_basin.py` | Clips recent NDVI raster to basin boundary |
 
 ## License
 

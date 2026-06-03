@@ -1,17 +1,34 @@
-numpy
-pandas
-geopandas
-rasterio
-rioxarray
-xarray
-netCDF4
-shapely
-fiona
-pyogrio
-exactextract
-rasterstats
-matplotlib
-Pillow
-scikit-learn
-earthengine-api
-geemap
+# Core data processing
+numpy>=1.24,<2.0
+pandas>=2.0,<3.0
+geopandas>=0.14,<1.0
+
+# Raster processing
+rasterio>=1.3,<2.0
+rioxarray>=0.15,<1.0
+xarray>=2023.1,<2025.0
+netCDF4>=1.6,<2.0
+
+# Vector processing
+shapely>=2.0,<3.0
+fiona>=1.9,<2.0
+pyogrio>=0.7,<1.0
+
+# Zonal statistics
+exactextract>=0.2
+rasterstats>=0.19,<1.0
+
+# Visualization
+matplotlib>=3.7,<4.0
+Pillow>=10.0,<11.0
+
+# Machine learning (ridge regression emulator)
+scikit-learn>=1.3,<2.0
+
+# Google Earth Engine (notebooks 02, 03, 04 only)
+earthengine-api>=0.1.370
+geemap>=0.30
+
+# Notebook dependencies
+jupyter>=1.0
+tabulate>=0.9
