@@ -1,0 +1,7 @@
+file,exists,width,height
+s2_baseline.png,True,1655,2000
+s2_recent.png,True,1655,2000
+s2_delta.png,True,1655,2000
+s2_baseline_color.png,True,1655,2000
+s2_recent_color.png,True,1655,2000
+s2_delta_color.png,True,1655,2000

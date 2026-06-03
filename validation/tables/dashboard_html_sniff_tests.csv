@@ -1,0 +1,17 @@
+check,present
+profile_json_ref,True
+master_json_ref,True
+scenario_json_ref,True
+soil_csv_ref,True
+ndvi_meta_ref,True
+candidate_manifest_ref,True
+compare_mode_ui,True
+data_completeness_toggle,True
+percent_toggle,True
+heatmap_state_declared,True
+heatmap_default_off,True
+heatmap_auto_activation,True
+screening_layer_id_declared,True
+swat71_guard_message,True
+active_scenario_cmip6_proxy,True
+active_scenario_legacy71,False

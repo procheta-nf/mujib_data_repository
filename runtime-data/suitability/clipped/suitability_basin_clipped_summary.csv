@@ -1,0 +1,3 @@
+label,basin_area_total_km2,area_ge70_km2,area_ge80_km2,area_ge90_km2,mean_suitability,benchmark_ge80_mujib,ratio_to_benchmark,saved
+marab,6079.0,5275.0,1258.0,17.0,75.83,1258,1.0,c:\Users\proch\Desktop\THESIS\MUJIB_ALL_DATA\Digital_Twin\MUJIB_DT\Cesium_71\Suitability\clipped_to_basin\Marab_barley_suitability_values_mujib_cleaned_basin_clipped.tif
+vallerani,6079.0,5973.0,3265.0,209.0,80.64,3265,1.0,c:\Users\proch\Desktop\THESIS\MUJIB_ALL_DATA\Digital_Twin\MUJIB_DT\Cesium_71\Suitability\clipped_to_basin\Vallerani_sultbush_suitability_values_mujib_cleaned_basin_clipped.tif

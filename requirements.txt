@@ -1,0 +1,17 @@
+numpy
+pandas
+geopandas
+rasterio
+rioxarray
+xarray
+netCDF4
+shapely
+fiona
+pyogrio
+exactextract
+rasterstats
+matplotlib
+Pillow
+scikit-learn
+earthengine-api
+geemap

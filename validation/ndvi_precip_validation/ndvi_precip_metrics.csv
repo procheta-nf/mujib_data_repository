@@ -1,0 +1,4 @@
+figure,n,corr_r,r2_linefit,out_png
+Mean annual precipitation vs baseline NDVI,411,0.5063360772179757,0.25637622309248775,C:\Users\proch\Desktop\THESIS\MUJIB_ALL_DATA\Digital_Twin\MUJIB_DT\Cesium_71\validation_outputs\ndvi_precip_validation\fig_precip_vs_ndvi_baseline.png
+Mean annual precipitation vs recent NDVI,411,0.5478627971052483,0.3001536444519862,C:\Users\proch\Desktop\THESIS\MUJIB_ALL_DATA\Digital_Twin\MUJIB_DT\Cesium_71\validation_outputs\ndvi_precip_validation\fig_precip_vs_ndvi_recent.png
+Mean annual precipitation vs ΔNDVI,411,0.3749742603994283,0.14060569596209804,C:\Users\proch\Desktop\THESIS\MUJIB_ALL_DATA\Digital_Twin\MUJIB_DT\Cesium_71\validation_outputs\ndvi_precip_validation\fig_precip_vs_ndvi_delta.png

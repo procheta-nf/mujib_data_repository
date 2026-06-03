@@ -1,0 +1,89 @@
+{
+  "crs": "EPSG:4326",
+  "west": 35.57884292389624,
+  "south": 30.662929881991417,
+  "east": 36.55315303079819,
+  "north": 31.90536116582214,
+  "width": 2048,
+  "height": 2048,
+  "thresholds": {
+    "70": {
+      "marab": {
+        "path": "marab_candidate_gt70_4326.png",
+        "west": 35.57884292389624,
+        "south": 30.662929881991417,
+        "east": 36.55315303079819,
+        "north": 31.90536116582214,
+        "pixels_valid_in_basin": 1977991,
+        "pixels_above": 1715772,
+        "threshold": 70.0
+      },
+      "vallerani": {
+        "path": "vallerani_candidate_gt70_4326.png",
+        "west": 35.57884292389624,
+        "south": 30.662929881991417,
+        "east": 36.55315303079819,
+        "north": 31.90536116582214,
+        "pixels_valid_in_basin": 1977991,
+        "pixels_above": 1943857,
+        "threshold": 70.0
+      }
+    },
+    "80": {
+      "marab": {
+        "path": "marab_candidate_gt80_4326.png",
+        "west": 35.57884292389624,
+        "south": 30.662929881991417,
+        "east": 36.55315303079819,
+        "north": 31.90536116582214,
+        "pixels_valid_in_basin": 1977991,
+        "pixels_above": 409665,
+        "threshold": 80.0
+      },
+      "vallerani": {
+        "path": "vallerani_candidate_gt80_4326.png",
+        "west": 35.57884292389624,
+        "south": 30.662929881991417,
+        "east": 36.55315303079819,
+        "north": 31.90536116582214,
+        "pixels_valid_in_basin": 1977991,
+        "pixels_above": 1062884,
+        "threshold": 80.0
+      },
+      "combined": {
+        "path": "combined_candidate_gt80_4326.png",
+        "west": 35.57884292389624,
+        "south": 30.662929881991417,
+        "east": 36.55315303079819,
+        "north": 31.90536116582214,
+        "pixels_marab_only": 32623,
+        "pixels_vallerani_only": 685842,
+        "pixels_both": 377042,
+        "pixels_neither": 1072769,
+        "threshold": 80.0
+      }
+    },
+    "90": {
+      "marab": {
+        "path": "marab_candidate_gt90_4326.png",
+        "west": 35.57884292389624,
+        "south": 30.662929881991417,
+        "east": 36.55315303079819,
+        "north": 31.90536116582214,
+        "pixels_valid_in_basin": 1977991,
+        "pixels_above": 5592,
+        "threshold": 90.0
+      },
+      "vallerani": {
+        "path": "vallerani_candidate_gt90_4326.png",
+        "west": 35.57884292389624,
+        "south": 30.662929881991417,
+        "east": 36.55315303079819,
+        "north": 31.90536116582214,
+        "pixels_valid_in_basin": 1977991,
+        "pixels_above": 68318,
+        "threshold": 90.0
+      }
+    }
+  }
+}

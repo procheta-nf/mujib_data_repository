@@ -1,0 +1,2 @@
+baseline_mean_2015_2017_m3m3,recent_mean_2023_2025_m3m3,pct_change,start_date,end_date,n_rows,soil_value_column_used,date_column_used
+0.08755547449743345,0.0631841792868267,-27.8352614162592,2015-01-01,2025-12-01,132,sm_0_28_mean,date

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "interventions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Dam_Name": "سد السلطاني", "North": 1057800.0, "East": 245500.0, "Current_ca": 80000.0, "Design_Cap": 1200000.0, "Constructi": 1962.0, "Dam_type": "ركامي", "Governorat": "الكرك", "Project": "صحراوي", "WH_No": 8 }, "geometry": { "type": "Point", "coordinates": [ 35.999049762289388, 31.107945292728573, 0.0 ] } },
+{ "type": "Feature", "properties": { "Dam_Name": "سد القطرانه", "North": 1073180.0, "East": 246493.0, "Current_ca": 2300000.0, "Design_Cap": 4000000.0, "Constructi": 1964.0, "Dam_type": "ركامي", "Governorat": "الكرك", "Project": "صحراوي", "WH_No": 9 }, "geometry": { "type": "Point", "coordinates": [ 36.013522509984504, 31.247875489490099, 0.0 ] } },
+{ "type": "Feature", "properties": { "Dam_Name": "سد سواقه", "North": 1087225.0, "East": 252299.0, "Current_ca": 2400000.0, "Design_Cap": 2500000.0, "Constructi": 1993.0, "Dam_type": "ترابي", "Governorat": "عمان", "Project": "صحراوي", "WH_No": 10 }, "geometry": { "type": "Point", "coordinates": [ 36.074813380097766, 31.372664859096325, 0.0 ] } }
+]
+}

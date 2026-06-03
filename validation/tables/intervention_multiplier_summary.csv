@@ -1,0 +1,13 @@
+metric,intervention,n,median_ratio,mean_ratio,std_ratio,median_pct_change
+groundwater,combined,20,1.15,1.15,2.597467360601521e-16,14.999999999999996
+groundwater,marab,20,1.08,1.08,1.6895061133507964e-16,8.000000000000005
+groundwater,vallerani,20,1.1,1.1,2.646947375414353e-16,10.000000000000014
+runoff,combined,20,0.73,0.73,9.183433922960295e-17,-27.0
+runoff,marab,20,0.9,0.9,1.1390647892519134e-16,-10.0
+runoff,vallerani,20,0.81,0.8099999999999999,1.3950637588190223e-16,-18.999999999999996
+sediment,combined,20,0.4,0.4,4.027202183454268e-17,-60.0
+sediment,marab,20,0.75,0.75,1.0501658464244971e-16,-25.0
+sediment,vallerani,20,0.5,0.5,0.0,-50.0
+vegetation,combined,20,1.0,1.0,0.0,0.0
+vegetation,marab,20,1.0,1.0,0.0,0.0
+vegetation,vallerani,20,1.0,1.0,0.0,0.0

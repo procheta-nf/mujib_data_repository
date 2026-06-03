@@ -1,0 +1,3 @@
+label,path,crs,pixel_area_km2,valid_pixels,mean,min,max,area_gte80_km2,benchmark_mean_mujib,benchmark_area80_mujib,benchmark_area80_jordan,mean_diff,area80_diff_mujib_km2,extent_interpretation
+marab,C:\Users\proch\Desktop\THESIS\MUJIB_ALL_DATA\Digital_Twin\MUJIB_DT\Cesium_71\Suitability\Marab_barley_suitability_values_mujib_cleaned.tif,EPSG:32637,1.0,6079,75.83,49.73,92.4,1258.0,75.8,1258.0,7583.0,0.03,0.0,
+vallerani,C:\Users\proch\Desktop\THESIS\MUJIB_ALL_DATA\Digital_Twin\MUJIB_DT\Cesium_71\Suitability\Vallerani_sultbush_suitability_values_mujib_cleaned.tif,EPSG:32637,1.0,6079,80.64,59.73,97.78,3265.0,79.0,3265.0,23316.0,1.64,0.0,

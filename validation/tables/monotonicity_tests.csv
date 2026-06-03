@@ -1,0 +1,141 @@
+sub_id,scenario,metric,test,n_points,expectation,pass
+1,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+1,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+1,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+1,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+1,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+1,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+1,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+1,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+1,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+1,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+1,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+1,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+2,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+2,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+2,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+2,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+2,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+2,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+2,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+2,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+2,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+2,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+2,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+2,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+3,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+3,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+3,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+3,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+3,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+3,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+3,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+3,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+3,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+3,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+3,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+3,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+4,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+4,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+4,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+4,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+4,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+4,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+4,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+4,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+4,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+4,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+4,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+4,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+5,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+5,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+5,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+5,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+5,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+5,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+5,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+5,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+5,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+5,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+5,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+5,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+6,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+6,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+6,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+6,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+6,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+6,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+6,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+6,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+6,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+6,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+6,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+6,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+7,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+7,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+7,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+7,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+7,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+7,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+7,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+7,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+7,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+7,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+7,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+7,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+8,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+8,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+8,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+8,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+8,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+8,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+8,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+8,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+8,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+8,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+8,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+8,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+9,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+9,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+9,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+9,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+9,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+9,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+9,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+9,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+9,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+9,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+9,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+9,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+10,baseline,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+10,baseline,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+10,baseline,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+10,marab,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+10,marab,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+10,marab,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+10,vallerani,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+10,vallerani,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+10,vallerani,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+10,combined,runoff,dP_sweep_at_dT0,3,nondecreasing,True
+10,combined,sediment,dP_sweep_at_dT0,3,nondecreasing,True
+10,combined,groundwater,dP_sweep_at_dT0,3,nondecreasing,True
+1,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+1,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+2,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+2,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+3,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+3,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+4,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+4,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+5,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+5,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+6,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+6,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+7,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+7,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+8,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+8,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+9,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+9,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True
+10,intervention_stack,runoff,combined_le_baseline,2,combined <= baseline,True
+10,intervention_stack,sediment,combined_le_baseline,2,combined <= baseline,True

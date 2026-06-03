@@ -1,0 +1,13 @@
+indicator,source,Present,SSP2-4.5,SSP5-8.5
+Groundwater,baseline_pct,2.9,2.9,2.8
+Groundwater,climate_pct,0.0,2.8,5.1
+Groundwater,multiplier_pct,97.1,94.3,92.1
+Runoff,baseline_pct,7.0,4.2,3.1
+Runoff,climate_pct,0.0,39.5,56.0
+Runoff,multiplier_pct,93.0,56.3,40.9
+Sediment,baseline_pct,95.3,87.6,81.4
+Sediment,climate_pct,0.0,8.0,14.6
+Sediment,multiplier_pct,4.7,4.3,4.0
+Soil Moisture,baseline_pct,2.9,2.9,2.9
+Soil Moisture,climate_pct,0.0,0.0,0.0
+Soil Moisture,multiplier_pct,97.1,97.0,97.0

@@ -1,0 +1,14 @@
+{
+  "baseline_years": [
+    2015,
+    2017
+  ],
+  "recent_years": [
+    2023,
+    2025
+  ],
+  "baseline_mean_sm": 0.08439454163207193,
+  "recent_mean_sm": 0.0631841792868267,
+  "delta_recent_minus_baseline": -0.02121036234524523,
+  "pct_change": -25.13238644948667
+}
