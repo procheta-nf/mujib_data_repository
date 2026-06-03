@@ -107,8 +107,8 @@ Notebooks 02, 03, and 04 require Google Earth Engine authentication (`earthengin
 
 This data repository is one half of the Mujib Basin Digital Twin framework. The other half is the CesiumJS decision-support dashboard, which reads the `runtime-data/` files at load time:
 
-- Live dashboard: https://nawwarprocheta.github.io/mujib-digital-twin/
-- Dashboard source code: https://github.com/NawwarProcheta/mujib-digital-twin
+- Live dashboard: https://mujib-dt-dashboard.pages.dev/
+- Dashboard source code: https://github.com/procheta-nf/mujib-dt-dashboard
 
 For instructions on running the dashboard locally and connecting it to this data repository, see [docs/handover_guide.md](docs/handover_guide.md).
 

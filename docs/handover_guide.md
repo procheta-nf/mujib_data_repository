@@ -9,7 +9,7 @@ The framework has two components hosted in separate repositories:
 | Component | Repository | Purpose |
 |-----------|-----------|---------|
 | Data repository | [procheta-nf/mujib_data_repository](https://github.com/procheta-nf/mujib_data_repository) | Processing notebooks, runtime data, validation outputs |
-| Dashboard | [NawwarProcheta/mujib-digital-twin](https://github.com/NawwarProcheta/mujib-digital-twin) | CesiumJS 3D decision-support interface |
+| Dashboard | [procheta-nf/mujib-dt-dashboard](https://github.com/procheta-nf/mujib-dt-dashboard) | CesiumJS 3D decision-support interface |
 
 The dashboard reads files from `runtime-data/` at load time. There is no backend server or database. All data is pre-computed and served as static JSON, GeoJSON, CSV, and PNG files.
 
@@ -21,7 +21,7 @@ Steps:
 
 1. Clone the dashboard repository:
    ```
-   git clone https://github.com/NawwarProcheta/mujib-digital-twin.git
+   git clone https://github.com/procheta-nf/mujib-dt-dashboard.git
    ```
 
 2. Clone the data repository into the same parent folder:
